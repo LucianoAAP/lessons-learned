@@ -1,2 +1,1 @@
-Meu primeiro projeto na Trybe
-Mais detatlhes ainda por vir
+Meu primeiro projeto na Trybe. Mais detatlhes ainda por vir.
