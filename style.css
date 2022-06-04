@@ -1,38 +1,47 @@
 body {
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
+
 #cabecalho {
-    position: fixed;
-    top: 0px;
-    text-align: center;
-    margin-left: 400px;
+  position: fixed;
+  top: 0;
+  text-align: center;
+  margin-left: 400px;
 }
+
 h1 {
-    color: chartreuse;
+  color: chartreuse;
 }
+
 .lado-esquerdo {
-    display: inline-block;
+  display: inline-block;
 }
+
 #licoes_aprendidas {
-    float: left;
+  float: left;
 }
+
 #licoes_a_aprender {
-    float: left;
+  float: left;
 }
+
 .lado-direito {
-    float: right;
-    width: 60%;
-}    
+  float: right;
+  width: 60%;
+}
+
 aside {
-    line-height: 25px;
+  line-height: 25px;
 }
+
 footer {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 30px;
-    padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  padding: 20px;
 }
+
 nav {
-    width: 200px;
-    margin: 5px;
-    border: 5px solid darkblue;
+  width: 200px;
+  margin: 5px;
+  border: 5px solid darkblue;
 }
